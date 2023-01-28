@@ -10,4 +10,3 @@
     - commit messsage header : `add`, `fix`, `delete`, `refactor`
     - ex) `add : angular todo source upload`
 - [ ] assignees 추가
-- [ ] label 추가
