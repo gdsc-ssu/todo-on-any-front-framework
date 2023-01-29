@@ -1,0 +1,18 @@
+.todo-list {
+  background-color: var(--list-bg-color);
+  position: absolute;
+  top: 8rem;
+  max-width: 620px;
+  min-width: 300px;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  border-radius: 1rem;
+  height: 100%;
+}
+
+.todo-list-box-container {
+  position: relative;
+  margin: 0 auto;
+  width: 80%;
+}
