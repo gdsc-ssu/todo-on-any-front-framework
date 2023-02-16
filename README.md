@@ -54,21 +54,26 @@
   - [x] NFF 책 읽고 정리 (5장)
   - [x] 내용 학습 후, 관련 아젠다 선정하여 토론
 - 5주차
-  - [ ] NFF 책 읽고 정리 (6장)
-  - [ ] 내용 학습 후, 관련 아젠다 선정하여 토론
-  - [ ] 스벨트 학습 및 뷰 투두앱 제작
-  - [ ] 스벨트 코드잼 및 세미나 참여
+  - [x] NFF 책 읽고 정리 (6장)
+  - [x] 내용 학습 후, 관련 아젠다 선정하여 토론
+  - [x] 스벨트 학습 및 뷰 투두앱 제작
+  - [x] 스벨트 코드잼 및 세미나 참여
 - 6주차
   - [ ] NFF 책 읽고 정리 (7장)
   - [ ] 내용 학습 후, 관련 아젠다 선정하여 토론
 - 7주차
   - [ ] NFF 책 읽고 정리 (8장)
   - [ ] 내용 학습 후, 관련 아젠다 선정하여 토론
-  - [ ] 솔리드 학습 및 뷰 투두앱 제작
-  - [ ] 솔리드 코드잼 및 세미나 참여
+  - [x] 솔리드 학습 및 뷰 투두앱 제작
+  - [x] 솔리드 코드잼 및 세미나 참여
 
 ### 🌱 결과물
 
-- 1주차
-- 2주차
-- 3주차
+**Framework**|**PPT**|**Codejam Source Code**
+:---|:---:|:---:|
+💻 01. Angular|[PPT](https://github.com/gdsc-ssu/todo-on-any-front-framework/blob/main/01.%20Angular/GDSC%20Soongsil%20NFF%20Angular%20Codejam%20Docs.pdf)|[Codejam Sourcecode](https://github.com/gdsc-ssu/todo-on-any-front-framework/tree/main/01.%20Angular)
+💻 02. Vue|[PPT](https://github.com/gdsc-ssu/todo-on-any-front-framework/blob/main/02.%20Vue/GDSC%20NFF%20Vue%20Codejam%20Docs.pdf)|[Codejam Sourcecode](https://github.com/gdsc-ssu/todo-on-any-front-framework/tree/main/02.%20Vue/todo-app)
+💻 03. Svelte|[PPT](https://github.com/gdsc-ssu/todo-on-any-front-framework/blob/main/03.%20Svelte/GDSC%20NFF%20Sveltekit%20Docs.pdf)|[Codejam Sourcecode](https://github.com/gdsc-ssu/todo-on-any-front-framework/tree/main/03.%20Svelte)
+💻 04. Solid|[PPT]()|[Codejam Sourcecode](https://github.com/gdsc-ssu/todo-on-any-front-framework/tree/main/04.%20Solid)
+💻 05. React|[PPT]()|[Codejam Sourcecode](https://github.com/gdsc-ssu/todo-on-any-front-framework/tree/main/05.%20React)
+💻 06. Vanilla JS|[PPT]()|[Codejam Sourcecode](https://github.com/gdsc-ssu/todo-on-any-front-framework/tree/main/06.%20Vanilla%20Javascript)
